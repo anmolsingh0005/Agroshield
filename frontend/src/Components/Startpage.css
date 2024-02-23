@@ -1,0 +1,29 @@
+/* *{
+    background-color: #7f8180;
+} */
+
+.image{
+    background-color: #7f8180;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+   
+}
+
+.container{
+    background-color: #7f8180;
+    height: 100vh;
+}
+
+.type{
+    padding-top: 9%;
+    background-color: #7f8180;
+    font-size: xx-large;
+}
+
+.type2{
+    background-color: #7f8180;
+    font-size: xx-large;
+}

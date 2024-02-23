@@ -1,0 +1,72 @@
+#image{
+    background-image: url('https://informationage-staging.s3.amazonaws.com/uploads/2022/10/AdobeStock_165342095-scaled.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    height: 100vh;
+    width: 100vw;
+}
+
+#main{
+    background-color: white;
+}
+
+#signup{
+    background-color: black;
+    height: 100%;
+    width: 100vw;
+    display: flex;
+}
+
+@media screen and (max-width:600px) {
+    #signup{
+        background-color: #fefefe;
+
+    }
+    #image{
+        height: 10px;
+        background-size: 100vw 10px;
+        background-color: white;   
+    }
+
+}
+
+
+@media screen and (max-width:800px) {
+
+    #image{
+        height: 25vh;
+        background-size: 100vw 25vh;
+        background-color: white;   
+    }
+
+}
+
+@media screen and (max-width:1100px) {
+
+    #image{
+        height: 40vh;
+        background-size: 100vw 40vh;
+        background-color: white;   
+    }
+
+}
+
+@media screen and (max-width:1500px) {
+
+    #image{
+        height: 50vh;
+        background-size: 100vw 50vh;
+        background-color: white;   
+    }
+
+}
+
+
+#aboutus{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
